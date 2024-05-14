@@ -1,4 +1,4 @@
-let unit = 566;
+let unit = 300;
 TA = unit * 3;
 TAA = unit * 4;
 amount = undefined;

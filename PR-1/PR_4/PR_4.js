@@ -1,7 +1,6 @@
 let P = 1000;
 let R = 11;
-let N = 3;
-let A = (P * R * N) / 100;
+let N = 10;
 
 if (N > 3) {
   if (N <= 5) {
@@ -35,4 +34,7 @@ if (N > 3) {
     }
   }
 }
+
+let A = (P * R * N) / 100;
+console.log("R IS ", R);
 console.log("A IS ", A);
